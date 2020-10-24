@@ -2,7 +2,7 @@
 'RCET0265
 'Fall2020
 'Etch-A-Sketch 
-'
+'https://github.com/justinehoffa/EtchASketch
 
 Option Explicit On
 Option Strict On
